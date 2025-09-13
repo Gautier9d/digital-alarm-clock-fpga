@@ -105,7 +105,7 @@ project/
 │   ├── Hour.circ
 │   ├── Clock.circ
 │   ├── Second_Minute.circ
-│   ├── Selector.circ
+│   └── Selector.circ
 │
 ├── main_project.circ     # Main Logisim circuit file
 ├── Rapport Systèmes Logiques.docx  # Technical documentation
