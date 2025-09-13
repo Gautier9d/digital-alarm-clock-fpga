@@ -97,7 +97,17 @@ This project implements a multifunctional digital alarm clock using Logisim-evol
 ### File Structure
 ```
 project/
-├── PROJET_FINI.circ     # Main Logisim circuit file
+├── modules/
+│   ├── Counter.circ
+│   ├── Count_1.circ
+│   ├── Count_2.circ
+│   ├── Harry.circ
+│   ├── Hour.circ
+│   ├── Clock.circ
+│   ├── Second_Minute.circ
+│   ├── Selector.circ
+│
+├── main_project.circ     # Main Logisim circuit file
 ├── Rapport Systèmes Logiques.docx  # Technical documentation
 └── README.md            # This file
 ```
